@@ -1,0 +1,69 @@
+{
+  "voice": "adult male | teacher clear",
+  "reference": "12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "pages": [
+    {
+      "page": 0,
+      "visible": "Daily Safety Tips",
+      "speech": "Daily Safety Tips"
+    },
+    {
+      "page": 1,
+      "visible": "To be safe in your daily life, you need to know many things.",
+      "speech": "To be safe in your daily life, you need to know many things."
+    },
+    {
+      "page": 2,
+      "visible": "Here are some of them.",
+      "speech": "Here are some of them."
+    },
+    {
+      "page": 3,
+      "visible": "Always be careful about what’s around you.",
+      "speech": "Always be careful about what's around you."
+    },
+    {
+      "page": 4,
+      "visible": "You shouldn’t walk alone outside at night.",
+      "speech": "You shouldn't walk alone outside at night."
+    },
+    {
+      "page": 5,
+      "visible": "Make sure you know where the police stations are.",
+      "speech": "Make sure you know where the police stations are."
+    },
+    {
+      "page": 6,
+      "visible": "If anything dangerous happens, you can find them easily.",
+      "speech": "If anything dangerous happens, you can find them easily."
+    },
+    {
+      "page": 7,
+      "visible": "Carry your bag in front of your body; do not put it on your back.",
+      "speech": "Carry your bag in front of your body; do not put it on your back."
+    },
+    {
+      "page": 8,
+      "visible": "When a bus is full of people, it is easy for someone else to steal things from your bag.",
+      "speech": "When a bus is full of people, it is easy for someone else to steal things from your bag."
+    },
+    {
+      "page": 9,
+      "visible": "If someone is after you and you don’t know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you.",
+      "speech": "If someone is after you and you don't know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you."
+    },
+    {
+      "page": 10,
+      "visible": "Next, don’t go home right now.",
+      "speech": "Next, don't go home right now."
+    },
+    {
+      "page": 11,
+      "visible": "You are safer in the street than alone at home or in a lift.",
+      "speech": "You are safer in the street than alone at home or in a lift."
+    }
+  ]
+}

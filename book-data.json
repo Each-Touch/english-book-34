@@ -1,0 +1,708 @@
+{
+  "passageNumber": 34,
+  "title": "Daily Safety Tips",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Daily Safety Tips",
+      "cn": "第 34 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "To be safe in your daily life, you need to know many things.",
+      "cn": "为了在日常生活中保持安全，你需要知道很多事情。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "Here are some of them.",
+      "cn": "这里有其中一些。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "Always be careful about what’s around you.",
+      "cn": "始终留意你周围的情况。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "You shouldn’t walk alone outside at night.",
+      "cn": "你不应该夜里独自在外面走。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "Make sure you know where the police stations are.",
+      "cn": "确保你知道警察局在哪里。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "If anything dangerous happens, you can find them easily.",
+      "cn": "如果发生危险的事情，你可以很容易地找到它们。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "Carry your bag in front of your body; do not put it on your back.",
+      "cn": "把包背在身前，不要背在背上。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "When a bus is full of people, it is easy for someone else to steal things from your bag.",
+      "cn": "当公交车上挤满人时，别人很容易从你的包里偷东西。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "If someone is after you and you don’t know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you.",
+      "cn": "如果有人跟着你，而你不认识他或她，就穿过街道，换一个方向走，并让那个人知道你已经意识到他或她在跟着你。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "Next, don’t go home right now.",
+      "cn": "接下来，不要马上回家。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "You are safer in the street than alone at home or in a lift.",
+      "cn": "在街上比独自待在家里或电梯里更安全。",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "about": {
+      "phonetic": "/əˈbaʊt/",
+      "translation": "关于"
+    },
+    "across": {
+      "phonetic": "/əˈkrɔs/",
+      "translation": "穿过"
+    },
+    "after": {
+      "phonetic": "/ˈæftər/",
+      "translation": "后"
+    },
+    "alone": {
+      "phonetic": "[əˈləʊn]",
+      "translation": "独自",
+      "cardId": "core-005"
+    },
+    "always": {
+      "phonetic": "/ˈɔlˌweɪz/",
+      "translation": "总是"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "another": {
+      "phonetic": "/əˈnəðər/",
+      "translation": "其他"
+    },
+    "anything": {
+      "phonetic": "/ˈɛniˌθɪŋ/",
+      "translation": "任何事物"
+    },
+    "are": {
+      "phonetic": "/ər/",
+      "translation": "是"
+    },
+    "around": {
+      "phonetic": "/əraʊnd/",
+      "translation": "大约"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "translation": "在；于"
+    },
+    "back": {
+      "phonetic": "[bæk]",
+      "translation": "背部；后面",
+      "cardId": "core-012"
+    },
+    "bag": {
+      "phonetic": "/bæg/",
+      "translation": "包"
+    },
+    "be": {
+      "phonetic": "/bi/",
+      "translation": "是"
+    },
+    "body": {
+      "phonetic": "/ˈbɑdi/",
+      "translation": "身体"
+    },
+    "bus": {
+      "phonetic": "/bəs/",
+      "translation": "公共汽车"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "careful": {
+      "phonetic": "[ˈkeəfl]",
+      "translation": "小心的",
+      "cardId": "core-004"
+    },
+    "carry": {
+      "phonetic": "/ˈkɛri/",
+      "translation": "携带"
+    },
+    "daily": {
+      "phonetic": "[ˈdeɪli]",
+      "translation": "每日的；日常的",
+      "cardId": "core-002"
+    },
+    "dangerous": {
+      "phonetic": "[ˈdeɪndʒərəs]",
+      "translation": "危险的",
+      "cardId": "core-008"
+    },
+    "direction": {
+      "phonetic": "[dəˈrekʃn]",
+      "translation": "方向",
+      "cardId": "core-013"
+    },
+    "do": {
+      "phonetic": "/du/",
+      "translation": "做"
+    },
+    "dont": {
+      "phonetic": "/doʊnt/",
+      "translation": "不要"
+    },
+    "easily": {
+      "phonetic": "[ˈiːzəli]",
+      "translation": "容易地",
+      "cardId": "core-010"
+    },
+    "easy": {
+      "phonetic": "/ˈizi/",
+      "translation": "简单的"
+    },
+    "else": {
+      "phonetic": "/ɛls/",
+      "translation": "别的"
+    },
+    "find": {
+      "phonetic": "/faɪnd/",
+      "translation": "寻找"
+    },
+    "for": {
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给"
+    },
+    "from": {
+      "phonetic": "/frʌm/",
+      "translation": "从"
+    },
+    "front": {
+      "phonetic": "[frʌnt]",
+      "translation": "前面",
+      "cardId": "core-011"
+    },
+    "full": {
+      "phonetic": "/fʊl/",
+      "translation": "满的"
+    },
+    "go": {
+      "phonetic": "/goʊ/",
+      "translation": "去"
+    },
+    "happen": {
+      "phonetic": "[ˈhæpən]",
+      "translation": "发生",
+      "cardId": "core-009"
+    },
+    "happens": {
+      "phonetic": "/ˈhæpənz/",
+      "translation": "发生"
+    },
+    "he": {
+      "phonetic": "/hiː/",
+      "translation": "他"
+    },
+    "her": {
+      "phonetic": "/hər/",
+      "translation": "她"
+    },
+    "here": {
+      "phonetic": "/hir/",
+      "translation": "这里"
+    },
+    "him": {
+      "phonetic": "/ɪm/",
+      "translation": "他"
+    },
+    "home": {
+      "phonetic": "/hoʊm/",
+      "translation": "家"
+    },
+    "if": {
+      "phonetic": "/ɪf/",
+      "translation": "如果"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "translation": "是"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "translation": "它"
+    },
+    "know": {
+      "phonetic": "/noʊ/",
+      "translation": "知道"
+    },
+    "let": {
+      "phonetic": "/lɛt/",
+      "translation": "让"
+    },
+    "life": {
+      "phonetic": "[laɪf]",
+      "translation": "生活；生命",
+      "cardId": "core-003"
+    },
+    "lift": {
+      "phonetic": "[lɪft]",
+      "translation": "电梯",
+      "cardId": "core-015"
+    },
+    "make": {
+      "phonetic": "/meɪk/",
+      "translation": "制作"
+    },
+    "many": {
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多"
+    },
+    "need": {
+      "phonetic": "/nid/",
+      "translation": "需要"
+    },
+    "next": {
+      "phonetic": "/nɛkst/",
+      "translation": "下一个"
+    },
+    "night": {
+      "phonetic": "/naɪt/",
+      "translation": "夜晚"
+    },
+    "not": {
+      "phonetic": "/nɑt/",
+      "translation": "不是"
+    },
+    "now": {
+      "phonetic": "/naʊ/",
+      "translation": "现在"
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "translation": "……的"
+    },
+    "on": {
+      "phonetic": "/ɑːn/",
+      "translation": "在……上"
+    },
+    "or": {
+      "phonetic": "/ɔːr/",
+      "translation": "或者"
+    },
+    "outside": {
+      "phonetic": "/ˈaʊtˈsaɪd/",
+      "translation": "外部"
+    },
+    "people": {
+      "phonetic": "/ˈpipəl/",
+      "translation": "人们"
+    },
+    "person": {
+      "phonetic": "[ˈpɜːsn]",
+      "translation": "人",
+      "cardId": "core-014"
+    },
+    "police": {
+      "phonetic": "[pəˈliːs]",
+      "translation": "警察",
+      "cardId": "core-006"
+    },
+    "put": {
+      "phonetic": "/pʊt/",
+      "translation": "放"
+    },
+    "realise": {
+      "phonetic": "/ˈriəˌlaɪz/",
+      "translation": "意识到"
+    },
+    "right": {
+      "phonetic": "/raɪt/",
+      "translation": "正确的"
+    },
+    "safe": {
+      "phonetic": "[seɪf]",
+      "translation": "安全的",
+      "cardId": "core-001"
+    },
+    "safer": {
+      "phonetic": "/ˈseɪfər/",
+      "translation": "更安全"
+    },
+    "safety": {
+      "phonetic": "/ˈseɪfti/",
+      "translation": "安全"
+    },
+    "she": {
+      "phonetic": "/ʃiː/",
+      "translation": "她"
+    },
+    "shouldnt": {
+      "phonetic": "/ˈʃʊdənt/",
+      "translation": "不应该"
+    },
+    "some": {
+      "phonetic": "/səm/",
+      "translation": "一些"
+    },
+    "someone": {
+      "phonetic": "/ˈsəmˌwən/",
+      "translation": "某人"
+    },
+    "station": {
+      "phonetic": "[ˈsteɪʃn]",
+      "translation": "车站；站点",
+      "cardId": "core-007"
+    },
+    "stations": {
+      "phonetic": "/ˈsteɪʃənz/",
+      "translation": "车站"
+    },
+    "steal": {
+      "phonetic": "/stil/",
+      "translation": "偷"
+    },
+    "street": {
+      "phonetic": "/strit/",
+      "translation": "街道"
+    },
+    "sure": {
+      "phonetic": "/ʃʊr/",
+      "translation": "当然"
+    },
+    "than": {
+      "phonetic": "/ðən/",
+      "translation": "比"
+    },
+    "that": {
+      "phonetic": "/ðət/",
+      "translation": "那"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "them": {
+      "phonetic": "/ðɛm/",
+      "translation": "他们"
+    },
+    "things": {
+      "phonetic": "/θɪŋz/",
+      "translation": "事物"
+    },
+    "tips": {
+      "phonetic": "/tɪps/",
+      "translation": "尖端"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "walk": {
+      "phonetic": "/wɔk/",
+      "translation": "走"
+    },
+    "whats": {
+      "phonetic": "/wʌts/",
+      "translation": "是什么"
+    },
+    "when": {
+      "phonetic": "/wɪn/",
+      "translation": "什么时候"
+    },
+    "where": {
+      "phonetic": "/wɛr/",
+      "translation": "在哪里"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "translation": "你；你们"
+    },
+    "your": {
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "safe",
+      "speak": "safe",
+      "phonetic": "[seɪf]",
+      "meaning": "安全的",
+      "memory": "safe → 安全的",
+      "match": "safe",
+      "example": "To be safe in your daily life, you need to know many things. 为了在日常生活中保持安全，你需要知道很多事情。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "daily",
+      "speak": "daily",
+      "phonetic": "[ˈdeɪli]",
+      "meaning": "每日的；日常的",
+      "memory": "daily → 每日的；日常的",
+      "match": "daily",
+      "example": "To be safe in your daily life, you need to know many things. 为了在日常生活中保持安全，你需要知道很多事情。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "life",
+      "speak": "life",
+      "phonetic": "[laɪf]",
+      "meaning": "生活；生命",
+      "memory": "life → 生活；生命",
+      "match": "life",
+      "example": "To be safe in your daily life, you need to know many things. 为了在日常生活中保持安全，你需要知道很多事情。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "careful",
+      "speak": "careful",
+      "phonetic": "[ˈkeəfl]",
+      "meaning": "小心的",
+      "memory": "careful → 小心的",
+      "match": "careful",
+      "example": "Always be careful about what’s around you. 始终留意你周围的情况。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "alone",
+      "speak": "alone",
+      "phonetic": "[əˈləʊn]",
+      "meaning": "独自",
+      "memory": "alone → 独自",
+      "match": "alone",
+      "example": "You shouldn’t walk alone outside at night. 你不应该夜里独自在外面走。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "police",
+      "speak": "police",
+      "phonetic": "[pəˈliːs]",
+      "meaning": "警察",
+      "memory": "police → 警察",
+      "match": "police",
+      "example": "Make sure you know where the police stations are. 确保你知道警察局在哪里。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "station",
+      "speak": "station",
+      "phonetic": "[ˈsteɪʃn]",
+      "meaning": "车站；站点",
+      "memory": "station → 车站；站点",
+      "match": "station",
+      "example": "To be safe in your daily life, you need to know many things. 为了在日常生活中保持安全，你需要知道很多事情。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "dangerous",
+      "speak": "dangerous",
+      "phonetic": "[ˈdeɪndʒərəs]",
+      "meaning": "危险的",
+      "memory": "dangerous → 危险的",
+      "match": "dangerous",
+      "example": "If anything dangerous happens, you can find them easily. 如果发生危险的事情，你可以很容易地找到它们。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "happen",
+      "speak": "happen",
+      "phonetic": "[ˈhæpən]",
+      "meaning": "发生",
+      "memory": "happen → 发生",
+      "match": "happen",
+      "example": "To be safe in your daily life, you need to know many things. 为了在日常生活中保持安全，你需要知道很多事情。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "easily",
+      "speak": "easily",
+      "phonetic": "[ˈiːzəli]",
+      "meaning": "容易地",
+      "memory": "easily → 容易地",
+      "match": "easily",
+      "example": "If anything dangerous happens, you can find them easily. 如果发生危险的事情，你可以很容易地找到它们。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "front",
+      "speak": "front",
+      "phonetic": "[frʌnt]",
+      "meaning": "前面",
+      "memory": "front → 前面",
+      "match": "front",
+      "example": "Carry your bag in front of your body; do not put it on your back. 把包背在身前，不要背在背上。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "back",
+      "speak": "back",
+      "phonetic": "[bæk]",
+      "meaning": "背部；后面",
+      "memory": "back → 背部；后面",
+      "match": "back",
+      "example": "Carry your bag in front of your body; do not put it on your back. 把包背在身前，不要背在背上。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-013",
+      "word": "direction",
+      "speak": "direction",
+      "phonetic": "[dəˈrekʃn]",
+      "meaning": "方向",
+      "memory": "direction → 方向",
+      "match": "direction",
+      "example": "If someone is after you and you don’t know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you. 如果有人跟着你，而你不认识他或她，就穿过街道，换一个方向走，并让那个人知道你已经意识到他或她在跟着你。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-014",
+      "word": "person",
+      "speak": "person",
+      "phonetic": "[ˈpɜːsn]",
+      "meaning": "人",
+      "memory": "person → 人",
+      "match": "person",
+      "example": "If someone is after you and you don’t know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you. 如果有人跟着你，而你不认识他或她，就穿过街道，换一个方向走，并让那个人知道你已经意识到他或她在跟着你。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-015",
+      "word": "lift",
+      "speak": "lift",
+      "phonetic": "[lɪft]",
+      "meaning": "电梯",
+      "memory": "lift → 电梯",
+      "match": "lift",
+      "example": "You are safer in the street than alone at home or in a lift. 在街上比独自待在家里或电梯里更安全。",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "safe",
+      "phonetic": "[seɪf]",
+      "meaning": "安全的"
+    },
+    {
+      "word": "daily",
+      "phonetic": "[ˈdeɪli]",
+      "meaning": "每日的；日常的"
+    },
+    {
+      "word": "life",
+      "phonetic": "[laɪf]",
+      "meaning": "生活；生命"
+    },
+    {
+      "word": "careful",
+      "phonetic": "[ˈkeəfl]",
+      "meaning": "小心的"
+    },
+    {
+      "word": "alone",
+      "phonetic": "[əˈləʊn]",
+      "meaning": "独自"
+    },
+    {
+      "word": "police",
+      "phonetic": "[pəˈliːs]",
+      "meaning": "警察"
+    },
+    {
+      "word": "station",
+      "phonetic": "[ˈsteɪʃn]",
+      "meaning": "车站；站点"
+    },
+    {
+      "word": "dangerous",
+      "phonetic": "[ˈdeɪndʒərəs]",
+      "meaning": "危险的"
+    },
+    {
+      "word": "happen",
+      "phonetic": "[ˈhæpən]",
+      "meaning": "发生"
+    },
+    {
+      "word": "easily",
+      "phonetic": "[ˈiːzəli]",
+      "meaning": "容易地"
+    },
+    {
+      "word": "front",
+      "phonetic": "[frʌnt]",
+      "meaning": "前面"
+    },
+    {
+      "word": "back",
+      "phonetic": "[bæk]",
+      "meaning": "背部；后面"
+    },
+    {
+      "word": "direction",
+      "phonetic": "[dəˈrekʃn]",
+      "meaning": "方向"
+    },
+    {
+      "word": "person",
+      "phonetic": "[ˈpɜːsn]",
+      "meaning": "人"
+    },
+    {
+      "word": "lift",
+      "phonetic": "[lɪft]",
+      "meaning": "电梯"
+    }
+  ]
+}
