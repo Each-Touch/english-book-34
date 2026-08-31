@@ -1,69 +1,151 @@
 {
-  "voice": "adult male | teacher clear",
-  "reference": "12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "reference": "/Users/zhaozixu/Applications/IndexTTS-2.5/presets/british_teacher/reference_slow.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
   "pages": [
     {
       "page": 0,
       "visible": "Daily Safety Tips",
-      "speech": "Daily Safety Tips"
+      "speech": "Daily Safety Tips",
+      "file": "sentences/page-00.mp3",
+      "duration_seconds": 3.437,
+      "raw_duration_seconds": 1.6,
+      "asr": "daily safety tips.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 1,
       "visible": "To be safe in your daily life, you need to know many things.",
-      "speech": "To be safe in your daily life, you need to know many things."
+      "speech": "To be safe in your daily life, you need to know many things.",
+      "file": "sentences/page-01.mp3",
+      "duration_seconds": 7.059,
+      "raw_duration_seconds": 3.68,
+      "asr": "To be safe in your daily life, you need to know many things.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 2,
       "visible": "Here are some of them.",
-      "speech": "Here are some of them."
+      "speech": "Here are some of them.",
+      "file": "sentences/page-02.mp3",
+      "duration_seconds": 3.529,
+      "raw_duration_seconds": 1.6,
+      "asr": "Here are some of them.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 3,
-      "visible": "Always be careful about what’s around you.",
-      "speech": "Always be careful about what's around you."
+      "visible": "Always be careful about what's around you.",
+      "speech": "Always be careful about what's around you.",
+      "file": "sentences/page-03.mp3",
+      "duration_seconds": 5.085,
+      "raw_duration_seconds": 2.24,
+      "asr": "Always be careful about what is around you.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 4,
-      "visible": "You shouldn’t walk alone outside at night.",
-      "speech": "You shouldn't walk alone outside at night."
+      "visible": "You shouldn't walk alone outside at night.",
+      "speech": "You shouldn't walk alone outside at night.",
+      "file": "sentences/page-04.mp3",
+      "duration_seconds": 5.225,
+      "raw_duration_seconds": 2.72,
+      "asr": "You shouldn't walk alone outside at night.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 5,
       "visible": "Make sure you know where the police stations are.",
-      "speech": "Make sure you know where the police stations are."
+      "speech": "Make sure you know where the police stations are.",
+      "file": "sentences/page-05.mp3",
+      "duration_seconds": 5.654,
+      "raw_duration_seconds": 2.72,
+      "asr": "Make sure you know where the police stations are.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 6,
       "visible": "If anything dangerous happens, you can find them easily.",
-      "speech": "If anything dangerous happens, you can find them easily."
+      "speech": "If anything dangerous happens, you can find them easily.",
+      "file": "sentences/page-06.mp3",
+      "duration_seconds": 5.84,
+      "raw_duration_seconds": 3.84,
+      "asr": "If anything dangerous happens, you can find them easily.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 7,
       "visible": "Carry your bag in front of your body; do not put it on your back.",
-      "speech": "Carry your bag in front of your body; do not put it on your back."
+      "speech": "Carry your bag in front of your body; do not put it on your back.",
+      "file": "sentences/page-07.mp3",
+      "duration_seconds": 7.152,
+      "raw_duration_seconds": 4.64,
+      "asr": "Carry your bag in front of your body. Do not put it on your back.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 8,
       "visible": "When a bus is full of people, it is easy for someone else to steal things from your bag.",
-      "speech": "When a bus is full of people, it is easy for someone else to steal things from your bag."
+      "speech": "When a bus is full of people, it is easy for someone else to steal things from your bag.",
+      "file": "sentences/page-08.mp3",
+      "duration_seconds": 8.243,
+      "raw_duration_seconds": 5.44,
+      "asr": "When a bus is full of people, it is easy for someone else to steal things from your bag.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 9,
-      "visible": "If someone is after you and you don’t know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you.",
-      "speech": "If someone is after you and you don't know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you."
+      "visible": "If someone is after you and you don't know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you.",
+      "speech": "If someone is after you and you don't know him or her, go across the street, go in another direction, and let the person know that you realise he or she is after you.",
+      "file": "sentences/page-09.mp3",
+      "duration_seconds": 16.715,
+      "raw_duration_seconds": 8.8,
+      "asr": "If someone is after you and you don't know him or her, go across the street, go in another direction and let the person know that you realize he or she is after you.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 10,
-      "visible": "Next, don’t go home right now.",
-      "speech": "Next, don't go home right now."
+      "visible": "Next, don't go home right now.",
+      "speech": "Next, don't go home right now.",
+      "file": "sentences/page-10.mp3",
+      "duration_seconds": 3.715,
+      "raw_duration_seconds": 2.24,
+      "asr": "Next, don't go home right now.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 11,
       "visible": "You are safer in the street than alone at home or in a lift.",
-      "speech": "You are safer in the street than alone at home or in a lift."
+      "speech": "You are safer in the street than alone at home or in a lift.",
+      "file": "sentences/page-11.mp3",
+      "duration_seconds": 6.258,
+      "raw_duration_seconds": 3.84,
+      "asr": "You are safer in the street than alone at home or in a lift.",
+      "asr_exact": true,
+      "needs_manual_review": false
     }
-  ]
+  ],
+  "model": "IndexTeam/IndexTTS-2.5",
+  "post_atempo": null,
+  "method": "fixed British reference cloned sentence by sentence with IndexTTS2.5; native 1.18 duration factor; strict local ASR; capped Rubber Band R3 alignment; two-pass loudness normalization",
+  "qa": {
+    "sentence_count": 12,
+    "asr_exact_count": 12,
+    "manual_review_pages": [],
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
